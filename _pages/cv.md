@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-  <ul>site.files.tf_cv.pdf</ul>
+ [My CV](../files/tf_cv.pdf)
